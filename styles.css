@@ -68,7 +68,7 @@ body {
 }
 
 .header-img {
-  background: center / contain no-repeat url(./images/juliana.jpeg);
+  background: center / contain no-repeat url(https://images.pexels.com/photos/526895/pexels-photo-526895.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
   border-radius: 50%;
   border: 1px solid var(--gris-oscuro);
   box-shadow: 8px 16px 32px 0px var(--shadow);
