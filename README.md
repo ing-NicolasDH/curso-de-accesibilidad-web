@@ -1,6 +1,7 @@
 # Portafolio de Nicolas Daravina Henao
 
-https://lenguajecss.com/css/modelo-de-cajas/que-es/modelo-de-cajas.png
+[https://lenguajecss.com/css/modelo-de-cajas/que-es/modelo-de-cajas.png](https://lenguajecss.com/css/modelo-de-cajas/que-es/modelo-de-cajas.png)
+
 
 ![Desarrollador-Front-End-perfil-profesional-tareas-experiencia-habilidades-salario](https://github.com/ing-NicolasDH/Portafolio-NicolasDaravina/assets/158206360/ac89c420-c3b5-4f17-85ee-c5fffa956f83)
 
