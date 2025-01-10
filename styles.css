@@ -161,7 +161,8 @@ nav{
 .project-container {
   left: 0;
   position: relative;
-  width: 1500px;
+  width: 1000px;
+  
 }
 .project-container li{
   display: inline-block;
